@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Trueffles_Quellenvalidierung.ContextDb;
 using Trueffles_Quellenvalidierung.Models;
-using Newtonsoft.Json.Linq;
 using Trueffles_Quellenvalidierung.Funktionen;
 
 namespace Trueffles_Quellenvalidierung.Controllers
